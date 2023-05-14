@@ -1,4 +1,4 @@
-// JASKIS
+// JASKIS assignment
 // paste the MongoDB commands you use underneath each prompt
 
 // GETTING STARTED
